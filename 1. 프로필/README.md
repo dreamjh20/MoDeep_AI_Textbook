@@ -3,15 +3,9 @@
 생성일: 2021년 4월 2일 오후 5:11
 
 # 모딥 깃허브
-
----
-
 [github.com/modeep](https://github.com/MoDeep)
 
 # 작가의 말
-
----
-
 ### 이재하
 
 ```python
