@@ -6,7 +6,7 @@
 
 ---
 
-[MoDeep](https://github.com/MoDeep)
+[github.com/modeep](https://github.com/MoDeep)
 
 # 작가의 말
 
