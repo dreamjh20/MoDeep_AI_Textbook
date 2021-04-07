@@ -14,3 +14,6 @@
 > [5. 최적화](https://github.com/MoDeep/MoDeep_AI_Textbook/blob/main/2.%20목차/최적화.md)  
 > [6. 평가방법](https://github.com/MoDeep/MoDeep_AI_Textbook/blob/main/2.%20목차/평가방법.md)  
 > [부과설명 : 수학](https://github.com/MoDeep/MoDeep_AI_Textbook/blob/main/2.%20목차/수학.md)  
+
+## 이 교과서가 어떻게 제작되었는지 궁금하다면?
+[이재하 작성 모딥이 알려주는 인공지능](https://velog.io/@taki0412/series/모딥이-알려주는-인공지능)
