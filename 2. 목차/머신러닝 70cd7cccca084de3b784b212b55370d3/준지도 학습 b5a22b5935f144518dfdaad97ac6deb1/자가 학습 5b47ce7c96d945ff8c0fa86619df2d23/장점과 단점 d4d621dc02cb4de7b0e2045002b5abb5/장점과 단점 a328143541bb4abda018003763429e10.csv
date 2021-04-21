@@ -1,0 +1,4 @@
+﻿장점,단점
+가장 간단한 준지도학습(semi-supercised learning)이다.,초반에 잘못 저지른 실수(early mistakes)가 잘못된 길로 인도할 수 있다.
+어떤 알고리즘이라도 적용 가능하다(wapper method).,완전히 수렴(convergence)한다고 딱 말할 수 없다(Cannot say too much in terms of convergence).
+NLP 같은 분야에서 종종 쓰인다.,
